@@ -12,7 +12,7 @@ import pandas as pd
 
 # Tor proxy settings
 tor_proxy = {
-    'http': 'http://geo.iproyal.com:12321'
+    'http': 'http://plural2356:dorbu7r62t9kgeo.iproyal.com:12321'
 }
 
 app = Flask(__name__)
